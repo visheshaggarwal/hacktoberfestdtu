@@ -1,3 +1,2 @@
 # hacktoberfestdtu
-vikas yadav
-vaibhav varshney
+For Hacktoberfest
